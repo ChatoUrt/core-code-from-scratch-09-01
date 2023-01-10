@@ -59,18 +59,11 @@ function nand(a, b){
 
 ---
 ## Knowledge base
-* 1.[String: .substr()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substr) 
-
-* 1.2. [String: substracting](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring)
-
-* 2.[String: .replace()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
-
-* 3.[Increment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment)
-
-* 3.2. [Decrement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Decrement)
-
-* 3.3. [Addition](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition)
-
-* 4.[NAND Logic table](https://testbook.com/learn/digital-electronics-nand-gate/)
-
-* 4.2. [What is a NAND gate](https://www.electrical4u.com/nand-gate/)
+1. [String: .substr()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substr) <br>
+1.2. [String: substracting](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring)
+2. [String: .replace()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
+3. [Increment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment)<br>
+3.2. [Decrement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Decrement)<br>
+3.3. [Addition](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition)<br>
+4. [NAND Logic table](https://testbook.com/learn/digital-electronics-nand-gate/)<br>
+4.2. [What is a NAND gate](https://www.electrical4u.com/nand-gate/)
